@@ -1,6 +1,6 @@
-# TRANSPORT-PATH-ANALYSIS
+# TRANSPORT-PATHFINDING-ANALYSIS
 
-TRANSPORT PATH ANALYSIS is a Python project designed to analyze and compare various pathfinding algorithms in transportation scenarios. This project explores different algorithms to find the shortest routes between cities in a customizable graph, considering factors such as distance and travel time.
+TRANSPORT PATHFINDING ANALYSIS is a Python project designed to analyze and compare various pathfinding algorithms in transportation scenarios. This project explores different algorithms to find the shortest routes between cities in a customizable graph, considering factors such as distance and travel time.
 
 ## Purpose
 
